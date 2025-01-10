@@ -157,7 +157,7 @@ $isLoggedIn = isset($_SESSION['loggedin']) && $_SESSION['loggedin'];
     
     <div class="copyright">
         <hr>
-        <p>&copy; 2024 Ashis. Made with <i class="fa-solid fa-heart"></i> by Ashis. Thank you for visiting!</p>
+        <p>&copy; 2025 Ashis. Made with <i class="fa-solid fa-heart"></i> by Ashis. Thank you for visiting!</p>
     </div>
     
 </footer>
